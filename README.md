@@ -17,6 +17,16 @@ Requires regular updates and maintenance to stays useful.
 Can be complex for beginners to understand intially.
 Limited insights of the dataset is small or not detailed.
 
+![](PersonalFinance.jpeg)
+
+
+
+
+
+
+
+
+
 
 
 
