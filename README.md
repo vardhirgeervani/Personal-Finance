@@ -15,9 +15,14 @@ Depends heavily on accurate andcomplete data entry.
 May not capture unexcepted expenses or real-time changes.
 Requires regular updates and maintenance to stays useful.
 Can be complex for beginners to understand intially.
-Limited insights of the dataset is small or not detailed.
+Limited insights of the dataset is small or not detail
 
-![](PersonalFinance.jpeg)
+Dashboard
+![Personal Finance](https://github.com/user-attachments/assets/e8363fca-f947-48c1-8a82-c4ba86d0876a)
+
+
+
+
 
 
 
